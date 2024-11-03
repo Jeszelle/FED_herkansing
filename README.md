@@ -233,13 +233,18 @@ Deze feedback sessie heb ik helaas niet bij kunnen wonen vanwege ziekte, wel heb
   ### Dit ging goed/Heb ik geleerd: 
   Door de oefeningen dat we tijdens de les hebben gedaan begreep ik beter hoe grid en flex-boxen werkten
 
+  Herkanssing: Ik heb nu geleerd dat je meerdere codes kan aanspreken op CSS en allemaal dezelfde vormgeving kan geven zonder dat je ze een voor een aanspreekt. Ook ben ik er achter gekomen dat je insluiten kan gebruiken op youtube, wat je gelijk de iframe code van de video geeft. 
+
   <img src="readme-images/uitkomst_pagina_2.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   1. De eerste obstakel dat ik had waren de buttons van de carousel. Ik vond dit erg lastig om na te maken en door tijds nood heb ik dit maar weg gelaten. 
   2. Daarnaast heb ik hulp gevraagd aan een klasgenootje hoe ik een hamburger menu in elkaar kon zetten sinds ik het zelf erg lastig vond. Met een paar tips en chatgpt is het me soort van gelukt, als ik meer tijd had gehad had ik hier meer in willen verdiepen. 
-  3. Ik vond het lastig om een video te implimenteren en kon niet zo goed begrijpen hoe ik dat erin moest zetten, na wat rond vragen bij een paar klasgenoten werkte het alsnog niet. 
+  3. Ik vond het lastig om een video te implimenteren en kon niet zo goed begrijpen hoe ik dat erin moest zetten, na wat rond vragen bij een paar klasgenoten werkte het alsnog niet.
+
+Herkansing:
+  4. Vanwege drukte heb ik helaas niet meer aan de hamburger menu kunnen zitten en kunnen verbeteren. Dit had ik nog wel graag gewilt. 
 
   <img src="readme-images/buttons_carousel.png" width="375px" alt="bummer">
   <img src="readme-images/hamburger_menu.png" width="375px" alt="bummer">
